@@ -62,7 +62,7 @@ def home():
             </p>
 
             <div class="status">
-                Application Status: Failure!
+                Application Status: Failure!v1
             </div>
         </div>
     </body>
