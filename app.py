@@ -9,7 +9,7 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>CloudXeus Customer Portal</title>
+        <title>Hello Kronovision!</title>
         <style>
             body {
                 font-family: Arial, sans-serif;
@@ -50,10 +50,10 @@ def home():
 
     <body>
         <div class="container">
-            <h1>CloudXeus Customer Portal - v1</h1>
+            <h1>Hello Kronovision!</h1>
 
             <p>
-                Welcome to our sample Python application running with FastAPI.
+                Welcome to our Lab.
             </p>
 
             <p>
